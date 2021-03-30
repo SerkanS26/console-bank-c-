@@ -1,0 +1,16 @@
+C:\Users\safra\Desktop\console-bank\bin\Debug\net5.0\console-bank.exe
+C:\Users\safra\Desktop\console-bank\bin\Debug\net5.0\console-bank.deps.json
+C:\Users\safra\Desktop\console-bank\bin\Debug\net5.0\console-bank.runtimeconfig.json
+C:\Users\safra\Desktop\console-bank\bin\Debug\net5.0\console-bank.runtimeconfig.dev.json
+C:\Users\safra\Desktop\console-bank\bin\Debug\net5.0\console-bank.dll
+C:\Users\safra\Desktop\console-bank\bin\Debug\net5.0\ref\console-bank.dll
+C:\Users\safra\Desktop\console-bank\bin\Debug\net5.0\console-bank.pdb
+C:\Users\safra\Desktop\console-bank\obj\Debug\net5.0\console-bank.csprojAssemblyReference.cache
+C:\Users\safra\Desktop\console-bank\obj\Debug\net5.0\console-bank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\safra\Desktop\console-bank\obj\Debug\net5.0\console-bank.AssemblyInfoInputs.cache
+C:\Users\safra\Desktop\console-bank\obj\Debug\net5.0\console-bank.AssemblyInfo.cs
+C:\Users\safra\Desktop\console-bank\obj\Debug\net5.0\console-bank.csproj.CoreCompileInputs.cache
+C:\Users\safra\Desktop\console-bank\obj\Debug\net5.0\console-bank.dll
+C:\Users\safra\Desktop\console-bank\obj\Debug\net5.0\ref\console-bank.dll
+C:\Users\safra\Desktop\console-bank\obj\Debug\net5.0\console-bank.pdb
+C:\Users\safra\Desktop\console-bank\obj\Debug\net5.0\console-bank.genruntimeconfig.cache
